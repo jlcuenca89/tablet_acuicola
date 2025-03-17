@@ -1,2 +1,3 @@
 # tablet_acuicola
-Diesel interface_lineaacuicola
+Diseño de interface para showroom Farmagro 2025
+ Copyright_reserved @ Alerta Comunicacion SA
